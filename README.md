@@ -80,5 +80,3 @@ Please replace `"your_api_key_here"` with your actual API key, you can get this 
 For more detailed documentation on the available methods and functionality of the GeoAPIWrapper, you can refer to the class documentation and comments provided in the code.
 
 Remember to handle exceptions appropriately in your application code to ensure a smooth user experience even in case of errors during API calls.
-```
-Feel free to use this markdown document as a part of your project's documentation.
